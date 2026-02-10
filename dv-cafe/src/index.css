@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Lato", sans-serif;
+
+  --color-coffee-900: #2C1810;
+  --color-coffee-800: #3E2723;
+  --color-gold-500: #C6A87C;
+  --color-gold-600: #B08D55;
+  --color-cream-100: #FAFAF5;
+  --color-cream-200: #F0EFE9; 
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream-100);
+  color: var(--color-coffee-900);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+}
