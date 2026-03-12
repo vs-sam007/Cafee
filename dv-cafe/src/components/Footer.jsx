@@ -76,7 +76,7 @@ const Footer = () => {
         </div>
 
         {/* Map or Newsletter? Map for now as per original */}
-        <div className="h-48 rounded-2xl overflow-hidden shadow-lg border border-coffee-800">
+        <div className="h-64 sm:h-72 w-full rounded-2xl overflow-hidden shadow-lg border border-coffee-800">
           <iframe
             title="Google Map"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.9966984785413!2d4.88891647692836!3d52.37367847978352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c1d78df1eb%3A0x74f9a55efc5b1c1!2sAmsterdam%2C%20Netherlands!5e0!3m2!1sen!2sus!4v1707165123456!5m2!1sen!2sus"
