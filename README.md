@@ -20,7 +20,7 @@ The application implements a meticulously tailored design palette inspired by th
 |:---:|:---:|:---|
 | **Coffee Dark** | `#2C1810` | Primary backgrounds, high-contrast headings, text accents |
 | **Coffee Roast** | `#3E2723` | Secondary backgrounds, cards, hover highlights |
-| **Gold Cream** | `#C6A87C` | Primary accents, interactive icons, borders |
+| **Gold Crema** | `#C6A87C` | Primary accents, interactive icons, borders |
 | **Gold Roasted** | `#B08D55` | Staggered states, active navigation indicators, hover states |
 | **Soft Cream** | `#FAFAF5` | Primary body backgrounds, light-contrast text fields |
 | **Warm Cream** | `#F0EFE9` | Section backgrounds, card containers |
